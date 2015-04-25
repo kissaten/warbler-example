@@ -2,7 +2,7 @@
 
 This project demonstrates how to deploy a War file packaged with
 [Warbler](https://github.com/jruby/warbler) and [JRuby](http://jruby.org)
-to Heroku.
+to [Heroku](http://heroku.com).
 
 There are two methods of doing this:
 
