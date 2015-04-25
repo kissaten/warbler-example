@@ -1,1 +1,1 @@
-web: java -jar heroku-warbler-example.war
+web: java -Djetty.port=${PORT} -jar heroku-warbler-example.war
