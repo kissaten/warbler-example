@@ -5,6 +5,6 @@ ruby '1.9.3', :engine => 'jruby', :engine_version => '1.7.19'
 gem 'rack'
 gem 'sinatra'
 
-group :build do
+group :package do
   gem 'warbler'
 end
