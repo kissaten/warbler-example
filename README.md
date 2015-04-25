@@ -30,3 +30,7 @@ $ bundle install
 $ warble
 $ heroku deploy:jar --jar heroku-warbler-example.war
 ```
+
+### Maven Deployment
+
+Another method of deployment, not demonstrated here, uses a `pom.xml` to configure the app. For an example of this, see the [jruby-async-servlets-example](https://github.com/jkutner/jruby-async-servlets-example).
