@@ -1,0 +1,11 @@
+{
+  "name": "warbler-example",
+  "description": "JRuby application packaged with Warbler",
+  "keywords": [
+    "Warbler",
+    "JRuby"
+  ],
+  "website": "https://github.com/kissaten/warbler-example",
+  "repository": "https://github.com/kissaten/warbler-example",
+  "success_url": "/"
+}

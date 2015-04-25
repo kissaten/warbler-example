@@ -4,7 +4,11 @@ This project demonstrates how to deploy a War file packaged with
 [Warbler](https://github.com/jruby/warbler) and [JRuby](http://jruby.org)
 to [Heroku](http://heroku.com).
 
-There are two methods of doing this:
+There are three methods of doing this:
+
+### Heroku Button
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ### Ruby Buildpack Deployment
 
