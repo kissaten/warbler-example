@@ -6,4 +6,6 @@ task "assets:precompile" do
 
   # clean some things out of the slug that we don't need
   # `rm -rf vendor/bundle`
+
+  `curl -sfL -o webapp-runner.jar http://repo1.maven.apache.org/maven2/com/github/jsimone/webapp-runner/8.5.32.1/webapp-runner-8.5.32.1.jar`
 end
