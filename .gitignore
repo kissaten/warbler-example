@@ -1,1 +1,8 @@
 *.war
+bin/
+.bundle/
+.DS_Store
+*.jar
+target/
+*.iml
+.idea/
