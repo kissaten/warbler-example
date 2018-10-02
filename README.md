@@ -25,7 +25,7 @@ $ git push heroku master
 $ git clone https://github.com/kissaten/warbler-example
 $ cd warbler-example
 $ heroku create
-$ heroku plugins:install heroku-cli-deploy
+$ heroku plugins:install java
 $ bundle install
 $ warble
 $ heroku deploy:jar heroku-warbler-example.war
